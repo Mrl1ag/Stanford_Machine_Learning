@@ -1,5 +1,5 @@
-## Aprendizagem Automática
-### by Universidade de Stanford
+## Machine Learning
+### by Stanford University
 
 #### Ministrado por:
 ###### Andrew Ng, CEO/Founder Landing AI; Co-founder, Coursera; Adjunct Professor, Stanford University; formerly Chief Scientist,Baidu and founding lead of Google Brain
